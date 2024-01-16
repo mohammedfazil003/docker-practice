@@ -7,7 +7,7 @@
 Images do not run themselves, instead they can be executed as containers.
 
 # CONTAINER
-> Containers are running instances of iamges. When you create a container a
+> Containers are running instances of images. When you create a container a
 thin read-write layer is added on top of the Image.
 
 ### SOME USEFUL DOCKER COMMANDS:
